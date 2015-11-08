@@ -8,4 +8,5 @@ FontName=HelveticaNeueLT Com 25 UltLt
 Netin=7000
 Netout=2000
 GPUMaxFPS=200
-GPUMaxMemUsage=1536
+GPUMaxMemUsage=3072
+URL=http://127.0.0.1:8085/data.json
